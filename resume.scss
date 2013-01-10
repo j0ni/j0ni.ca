@@ -2,47 +2,5 @@
 @import "./fonts/stylesheet.css";
 
 body {
-  .container {
-    width: 850px;
-    margin-top: 15px;
-    font: 18px/25px 'LinuxLibertineORegular', Arial, sans-serif;
-
-    header {
-      #title {
-        font-style: italic;
-      }
-
-      /* hgroup, address { */
-      /*   display: inline-block; */
-      /* } */
-
-      address {
-        float: right;
-      }
-    }
-
-    section {
-      &#profile p {
-        margin-left: 0px;
-      }
-
-      &#education {
-        span {
-          margin-left: 30px;
-        }
-
-        section:last-child {
-          margin-top: 10px;
-        }
-      }
-
-      h3 {
-        font-style: italic;
-      }
-
-      p {
-        margin-left: 30px;
-      }
-    }
-  }
+  font: 16px/22px 'AurulentSansRegular', Arial, sans-serif;
 }
