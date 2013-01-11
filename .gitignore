@@ -1,3 +1,5 @@
 /.sass-cache
 /j0ni.css
 /files
+.bundle
+/vendor/ruby
