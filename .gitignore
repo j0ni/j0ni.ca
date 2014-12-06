@@ -1,7 +1,7 @@
 /.sass-cache
 .bundle
-/vendor
-/rubypom.xml
+/vendor/ruby
+pom.xml
 pom.xml.asc
 *jar
 /lib/
