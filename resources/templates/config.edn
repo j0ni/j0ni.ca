@@ -1,0 +1,11 @@
+{:site-title "j0ni.ca"
+ :author "J Irving"
+ :description "Words, on the Internet"
+ :site-url "http://j0ni.ca/"
+ :post-root "posts"
+ :tag-root "tags"
+ :page-root "pages"
+ :tags? true
+ :blog-prefix "/blog"
+ :rss-name "feed.xml"
+ :resources ["css" "js" "img"]}
